@@ -1,5 +1,5 @@
-# Machine-Learning
+# Machine Learning with python
 Machine Learning
-
-Use 
+## Prerequisite
 - Pytnon 2.7
+- 
